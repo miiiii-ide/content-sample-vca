@@ -110,10 +110,10 @@ export default defineComponent({
     ]
     const state = reactive({
       items: menuContent,
-    })
+    });
 
     return {
-      state,
+      state
     }
   },
 })
