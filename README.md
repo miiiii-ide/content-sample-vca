@@ -18,3 +18,13 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## add library
+
+```
+yarn add @vue/composition-api
+yarn add -D node-sass sass-loader
+```
+
+## ref Qiita
+[@nuxt/content ✖︎ CompositionAPI で簡素なブログページを作成](https://qiita.com/miiiii/items/65544f37e1668c56ee91)
